@@ -1,6 +1,2 @@
-# JavaWeb
-Javaweb购物商城项目
+# Initial page
 
-MVC框架搭建
-
-`课程设计项目`
